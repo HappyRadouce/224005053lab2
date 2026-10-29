@@ -1,0 +1,3 @@
+For country schools dataset, perform basic data preprocessing activities and then run the experiments and interpret the output on the following topics
+1. anomaly detection
+2. Cluster analysis
